@@ -27,6 +27,7 @@
 - NodeJS
 - Yarn
 - SqlServer 2022 Express _(for LocalDB support)_
+- mkcert
 - Docker Desktop _(optional - pass `-docker` parameter to the script.)_
 
 - .NET Tools
