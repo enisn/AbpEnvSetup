@@ -32,5 +32,3 @@
 
 - .NET Tools
     - dotnet-ef
-    - volo.abp.studio.cli
-    - abpdevtools
