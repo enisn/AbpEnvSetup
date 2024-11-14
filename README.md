@@ -45,7 +45,7 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 ```
 
 ### Winget not installed
-If winget isn't installed on your system, you can install it by running the `install-winget` script.
+If winget isn't installed on your system, you can install it by running the [install-winget.ps1](./install-winget.ps1) script.
 
 ```bash
 powershell.exe ./install-winget
