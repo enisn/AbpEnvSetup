@@ -1,5 +1,5 @@
 # AbpEnvSetup
- ABP Environment Setup for Windows.
+ Environment Setup for [ABP Framework](https://github.com/abpframework/abp) only for Windows.
 
  ## Prerequisites
  - Powershell
