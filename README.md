@@ -36,6 +36,15 @@
 
 
 ## Troubleshooting
+
+### Execution Policy
+If you get an error about the execution policy, you can run the following command to change the execution policy.
+
+```bash
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
+```
+
+### Winget not installed
 If winget isn't installed on your system, you can install it by running the `install-winget` script.
 
 ```bash
