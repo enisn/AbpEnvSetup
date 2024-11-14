@@ -19,5 +19,3 @@ if ($docker) {
 
 # .NET Tools
 dotnet tool install -g dotnet-ef
-dotnet tool install -g volo.abp.studio.cli
-dotnet tool install -g abpdevtools
