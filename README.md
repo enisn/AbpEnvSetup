@@ -12,13 +12,13 @@
 1. Clone the repository
 2. Run the `install-all` script in the terminal.
     ```bash
-    powershell.exe ./install-all
+    powershell.exe ./install-all.ps1
     ```
 
 ### Optional Parameters
  - If you want to install docker, pass `-docker` parameter to the script.
  ```bash
- powershell.exe ./install-all -docker
+ powershell.exe ./install-all.ps1 -docker
  ```
 
 ## Programs Installed
